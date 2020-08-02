@@ -1,4 +1,4 @@
-import basic 
+import basic
 
 while True:
     text = input('basic > ')
