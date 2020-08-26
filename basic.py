@@ -135,7 +135,7 @@ KEYWORDS = [
   'TO',
   'STEP',
   'WHILE',
-  'FUN',
+  'FUNC',
   'THEN',
   'END',
   'RETURN',
